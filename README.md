@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Portfolio Website.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **JavaScript.**
 
-- 📫 How to reach me **sattar1994@hotmail.com**
+- 📫 How to reach me **sattar1994@hotmail.com**, **sattarnaqvi1994@gmail.com**
 
 - ⚡ Fun fact **I like Video Games, Anime, Sci Fi/Fantasy & Horror Novels.**
 
